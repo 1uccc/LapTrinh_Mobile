@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyen Van A",
+    "email": "vana@gmail.com",
+    "phone": "0901234567",
+    "avatar": "https://example.com/avatar1.jpg",
+    "dateOfBirth": "1995-05-20T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Tran Thi B",
+    "email": "tranb@example.com",
+    "phone": "0912345678",
+    "avatar": null,
+    "dateOfBirth": "1998-09-10T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Le Van C",
+    "email": "levanc@gmail.com",
+    "phone": "0923456789",
+    "avatar": "https://example.com/avatar3.png",
+    "dateOfBirth": "2001-12-25T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Pham Thi D",
+    "email": "phamd@example.com",
+    "phone": "0934567890",
+    "avatar": null,
+    "dateOfBirth": "1993-03-15T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Hoang Van E",
+    "email": "hoange@example.com",
+    "phone": "0945678901",
+    "avatar": "https://example.com/avatar5.jpg",
+    "dateOfBirth": "1990-07-07T00:00:00.000Z"
+  }
+]
